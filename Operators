@@ -1,0 +1,10 @@
+OPERATORS:
+               +, -, *, /, %
+               BODMAS
+               Brackets
+               Order
+               Modulus(Output is remainder)/ Divide/ Multiple
+               Add/Subtract
+
+               Modulus: If b % a = b [where b<a]
+                        a % -b = a % b

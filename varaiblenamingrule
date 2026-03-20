@@ -1,0 +1,10 @@
+Variables can start from an alphabet or underscore _. (_x, _wehdhi3, etc)
+
+Special Characters except _ are not allowed.  ( ! @ # $ % ^ & * ( ) { } [ ] | \ ' " : ; - + = ~ . ? / )
+
+Some particular keywords are not allowed. (int, double, if, for, while, float, etc) these words only use as a varibles not using as a variable names but we use these words in capital letter for variable naming.
+
+Commas or blanks are not allowed.
+
+Variables name cannot start with a number.
+
